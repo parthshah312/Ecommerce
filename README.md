@@ -2,7 +2,7 @@
 
 A full-fledge Ecommerce API built in Django 
 
-git clone https://github.com/parthshah312/Ecommerce ecommerce-api
+git clone https://github.com/parthshah312/Ecommerce
 
 cd ecommerce-api
 
